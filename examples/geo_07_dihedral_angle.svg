@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 310" width="420" height="310" style="background-color: #ffffff;">
+
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#000000" />
+      </marker>
+      <marker id="arrow-blue" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#2563eb" />
+      </marker>
+      <marker id="arrow-red" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#dc2626" />
+      </marker>
+    </defs>
+
+  <polygon points="80,220 280,140 240,50 40,130" fill="rgba(219, 234, 254, 0.4)" stroke="#2563eb" stroke-width="1.5" stroke-linejoin="round" />
+  <text x="54" y="144" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#2563eb" text-anchor="middle">α</text>
+  <polygon points="80,220 280,140 370,180 170,260" fill="rgba(241, 245, 249, 0.6)" stroke="#334155" stroke-width="1.5" stroke-linejoin="round" />
+  <text x="184" y="246" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">β</text>
+  <line x1="80" y1="220" x2="280" y2="140" stroke="#000000" stroke-width="2.4"   stroke-linecap="round" />
+  <text x="305" y="140" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">棱 l</text>
+  <circle cx="180" cy="180" r="3.5" fill="#dc2626" stroke="none" />
+  <text x="184" y="198" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#dc2626" text-anchor="middle">O</text>
+  <line x1="180" y1="180" x2="120" y2="110" stroke="#dc2626" stroke-width="2.0"   stroke-linecap="round" />
+  <text x="108" y="110" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#dc2626" text-anchor="middle">A</text>
+  <line x1="180" y1="180" x2="270" y2="220" stroke="#dc2626" stroke-width="2.0"   stroke-linecap="round" />
+  <text x="284" y="220" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#dc2626" text-anchor="middle">B</text>
+  <path d="M 157.37258300203047 157.37258300203047 A 32 32 0 0 1 209.0018491851728 193.52378437570238" stroke="#000000" stroke-width="1.2" fill="none"  />
+  <text x="200" y="162" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#dc2626" text-anchor="middle">θ</text>
+  <text x="210" y="290" font-size="13"   font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">二面角平面角: OA ⊂ α, OB ⊂ β, OA ⊥ l, OB ⊥ l ⇒ ∠AOB</text>
+</svg>

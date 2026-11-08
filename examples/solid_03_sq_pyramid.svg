@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="420" height="340" style="background-color: #ffffff;">
+
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#000000" />
+      </marker>
+      <marker id="arrow-blue" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#2563eb" />
+      </marker>
+      <marker id="arrow-red" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#dc2626" />
+      </marker>
+    </defs>
+
+  <line x1="160.0" y1="250.0" x2="330.0" y2="250.0" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="160.0" y1="250.0" x2="111.92" y2="298.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="111.92" y1="298.08" x2="281.92" y2="298.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="281.92" y1="298.08" x2="330.0" y2="250.0" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="220.96" y1="70.04" x2="160.0" y2="250.0" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="220.96" y1="70.04" x2="111.92" y2="298.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="220.96" y1="70.04" x2="281.92" y2="298.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="220.96" y1="70.04" x2="330.0" y2="250.0" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="160.0" y1="250.0" x2="281.92" y2="298.08" stroke="#666666" stroke-width="1.2" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="111.92" y1="298.08" x2="330.0" y2="250.0" stroke="#666666" stroke-width="1.2" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="220.96" y1="70.04" x2="220.96" y2="274.04" stroke="#dc2626" stroke-width="1.8" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <circle cx="220.96" cy="274.04" r="2.5" fill="#dc2626" stroke="none" />
+  <circle cx="220.96" cy="70.04" r="3.0" fill="#000000" stroke="none" />
+  <text x="220.96" y="58.040000000000006" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">P</text>
+  <circle cx="160.0" cy="250.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="146.0" y="252.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">A</text>
+  <circle cx="111.92" cy="298.08" r="3.0" fill="#000000" stroke="none" />
+  <text x="99.92" y="312.08" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">B</text>
+  <circle cx="281.92" cy="298.08" r="3.0" fill="#000000" stroke="none" />
+  <text x="295.92" y="312.08" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">C</text>
+  <circle cx="330.0" cy="250.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="344.0" y="250.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">D</text>
+  <circle cx="220.96" cy="274.04" r="3.0" fill="#000000" stroke="none" />
+  <text x="232.96" y="278.04" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">O</text>
+  <text x="210" y="320" font-size="14"   font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">正四棱锥模型: 高线 PO 垂直底面中心</text>
+</svg>

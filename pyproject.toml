@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "math-graphics"
+version = "1.1.0"
+description = "中国高中数理高考试卷标准矢量题图与立体几何绘制引擎 (Pure Python stdlib + AppKit 300+ DPI + CLI + MCP Server)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "ZHUOLIN", email = "270883937+ZHUOLIN0928@users.noreply.github.com" }
+]
+keywords = [
+    "math",
+    "geometry",
+    "exam",
+    "gaokao",
+    "mcp",
+    "model-context-protocol",
+    "vector-graphics",
+    "svg",
+    "appkit"
+]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: MacOS",
+    "Topic :: Scientific/Engineering :: Mathematics",
+]
+
+[project.scripts]
+math-graphics = "math_graphics.cli:main"
+math-graphics-mcp = "math_graphics.mcp_server:main"
+
+[tool.setuptools]
+packages = [
+    "math_graphics",
+    "math_graphics.core",
+    "math_graphics.models"
+]
+package-dir = { "math_graphics": "." }

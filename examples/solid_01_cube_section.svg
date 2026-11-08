@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 360" width="440" height="360" style="background-color: #ffffff;">
+
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#000000" />
+      </marker>
+      <marker id="arrow-blue" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#2563eb" />
+      </marker>
+      <marker id="arrow-red" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#dc2626" />
+      </marker>
+    </defs>
+
+  <polygon points="114.92,295.08 313.0,250.0 313.0,97.0 114.92,142.08" fill="rgba(254, 215, 170, 0.4)" stroke="none" stroke-width="1.5" stroke-linejoin="round" />
+  <line x1="160.0" y1="250.0" x2="114.92" y2="295.08" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="160.0" y1="250.0" x2="313.0" y2="250.0" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="160.0" y1="250.0" x2="160.0" y2="97.0" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="114.92" y1="295.08" x2="267.92" y2="295.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="267.92" y1="295.08" x2="313.0" y2="250.0" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="114.92" y1="142.08" x2="267.92" y2="142.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="267.92" y1="142.08" x2="313.0" y2="97.0" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="313.0" y1="97.0" x2="160.0" y2="97.0" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="160.0" y1="97.0" x2="114.92" y2="142.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="114.92" y1="295.08" x2="114.92" y2="142.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="267.92" y1="295.08" x2="267.92" y2="142.08" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="313.0" y1="250.0" x2="313.0" y2="97.0" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="114.92" y1="295.08" x2="313.0" y2="250.0" stroke="#dc2626" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="114.92" y1="142.08" x2="313.0" y2="250.0" stroke="#2563eb" stroke-width="1.8" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <circle cx="114.92" cy="295.08" r="3.0" fill="#000000" stroke="none" />
+  <text x="100.92" y="309.08" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">A</text>
+  <circle cx="267.92" cy="295.08" r="3.0" fill="#000000" stroke="none" />
+  <text x="281.92" y="309.08" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">B</text>
+  <circle cx="313.0" cy="250.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="329.0" y="248.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">C</text>
+  <circle cx="160.0" cy="250.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="144.0" y="246.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">D</text>
+  <circle cx="114.92" cy="142.08" r="3.0" fill="#000000" stroke="none" />
+  <text x="98.92" y="136.08" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">A1</text>
+  <circle cx="267.92" cy="142.08" r="3.0" fill="#000000" stroke="none" />
+  <text x="283.92" y="138.08" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">B1</text>
+  <circle cx="313.0" cy="97.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="327.0" y="89.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">C1</text>
+  <circle cx="160.0" cy="97.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="144.0" y="89.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">D1</text>
+  <text x="220" y="340" font-size="14"   font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">正方体模型: 对角面 ACC1A1 与体对角线 A1C</text>
+</svg>

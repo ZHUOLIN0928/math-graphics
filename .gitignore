@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# macOS
+.DS_Store
+
+# Temporary figures in root
+*.png
+*.svg
+!examples/*.png
+!examples/*.svg

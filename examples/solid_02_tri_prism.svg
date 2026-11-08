@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 340" width="420" height="340" style="background-color: #ffffff;">
+
+    <defs>
+      <marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#000000" />
+      </marker>
+      <marker id="arrow-blue" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#2563eb" />
+      </marker>
+      <marker id="arrow-red" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M 0 1.5 L 8 5 L 0 8.5 z" fill="#dc2626" />
+      </marker>
+    </defs>
+
+  <line x1="117.93" y1="292.07" x2="245.0" y2="250.0" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="287.93" y1="292.07" x2="245.0" y2="250.0" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="245.0" y1="250.0" x2="245.0" y2="80.0" stroke="#000000" stroke-width="1.6" stroke-dasharray="5,4"  stroke-linecap="round" />
+  <line x1="117.93" y1="292.07" x2="287.93" y2="292.07" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="117.93" y1="122.07" x2="287.93" y2="122.07" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="287.93" y1="122.07" x2="245.0" y2="80.0" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="245.0" y1="80.0" x2="117.93" y2="122.07" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="117.93" y1="292.07" x2="117.93" y2="122.07" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <line x1="287.93" y1="292.07" x2="287.93" y2="122.07" stroke="#000000" stroke-width="1.6"   stroke-linecap="round" />
+  <circle cx="117.93" cy="292.07" r="3.0" fill="#000000" stroke="none" />
+  <text x="103.93" y="306.07" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">A</text>
+  <circle cx="287.93" cy="292.07" r="3.0" fill="#000000" stroke="none" />
+  <text x="301.93" y="306.07" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">B</text>
+  <circle cx="245.0" cy="250.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="245.0" y="240.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">C</text>
+  <circle cx="117.93" cy="122.07" r="3.0" fill="#000000" stroke="none" />
+  <text x="101.93" y="116.07" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">A1</text>
+  <circle cx="287.93" cy="122.07" r="3.0" fill="#000000" stroke="none" />
+  <text x="303.93" y="118.07" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">B1</text>
+  <circle cx="245.0" cy="80.0" r="3.0" fill="#000000" stroke="none" />
+  <text x="245.0" y="68.0" font-size="15" font-style="italic" font-weight="bold" font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">C1</text>
+  <text x="210" y="320" font-size="14"   font-family="Times New Roman, STSong, serif" fill="#000000" text-anchor="middle">直三棱柱模型: 侧棱垂直于底面</text>
+</svg>
